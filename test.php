@@ -1,1 +1,1 @@
-<?php echo 'new file added'; ?>
+<?php echo 'issue file and resolved'; ?>
